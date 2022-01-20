@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anselmo-gomes
+- 👀 I’m interested in tech, education and community growth
+- 🌱 I’m currently learning Big Data
+- 💞️ I’m looking to collaborate on web plataforms and Progressive Web Apps
+- 📫 Find me on Linkedin https://www.linkedin.com/in/anselmogomes/
